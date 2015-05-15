@@ -1,9 +1,9 @@
 #Simple histogram
 
-Recently, I learned that histograms can be used to solve algorithms that
-require information to be stored and evaluated. This small project uses
-the Raphael (vector graphics library) and the gRaphael (charting library) to
-draw a histogram of character counts based on user input via web page prompt.
+I learned recently that histograms can be used to store and evaluate information.
+to solve algorithms. This small project uses the Raphael (vector graphics library)
+and the gRaphael (charting library) to draw a histogram of character counts based
+on user input via web page prompt.
 
 ###Instructions
 

@@ -1,9 +1,9 @@
 <html>
 <head>
-  <script src = "raphael-min.js"></script>
-  <script src = "histogram.js"></script>
-  <script src = "g.raphael-min.js"></script>
-  <script src = "g.bar.js"></script>
+  <script src = "scripts/raphael/raphael-min.js"></script>
+  <script src = "scripts/raphael/g.raphael-min.js"></script>
+  <script src = "scripts/raphael/g.bar.js"></script>
+  <script src = "scripts/histogram.js"></script>
 </head>
 <body>
   <script>
@@ -17,6 +17,6 @@ each(hist, function(val, key){
 });
 
 r.barchart(100, 100, 620, 260, [values], {}).label([keys], true);
-</script>
+  </script>
 </body>
 </html>
