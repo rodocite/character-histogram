@@ -33,14 +33,4 @@ var histogram = function (collection) {
     }, {});
 };
 
-var filter = function(collection, predicate) {
-  var result = [];
-  each(collection, function(val) {
-     if(predicate(val)) {
-         result.push(val);
-     }
-  });
-  return result;
-};
-
-var hist = histogram(prompt("Enter a sentence."));
+var hist = histogram(prompt("Enter a block of text."));
