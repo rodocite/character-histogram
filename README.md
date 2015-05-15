@@ -1,7 +1,7 @@
 #Simple histogram
 
-I learned recently that histograms can be used to store and evaluate information
-to solve algorithms. This small project uses the Raphael (vector graphics library)
+I learned how to use histograms to store and evaluate information to solve
+algorithms recently. This small project uses the Raphael (vector graphics library)
 and the gRaphael (charting library) to draw a histogram of character counts based
 on user input via web page prompt.
 
