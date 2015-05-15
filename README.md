@@ -10,10 +10,7 @@ appears in higher frequency than any other character.
 
 ###Instructions
 
-1. Download the files and store locally on a folder
-2. Run index.html
-3. Input your text in the pop-up prompt.
-4. A histogram of unique characters will be rendered on the page.
+Visit https://github.rodocite.io/simple-histogram to test the application.
 
 ####Issues
 
