@@ -34,3 +34,11 @@ var histogram = function (collection) {
 };
 
 var hist = histogram(prompt("Enter a block of text."));
+
+var values = [],
+    keys = [];
+
+each(hist, function(val, key){
+  values.push(val);
+  keys.push(key);
+});

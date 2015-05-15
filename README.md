@@ -15,3 +15,5 @@ Visit https://rodocite.github.io/simple-histogram to test the application.
 ####Issues
 
 - Space and new lines need labels.
+- Formatting issue when too many unique characters are used.
+- Blank page when no characters are entered.

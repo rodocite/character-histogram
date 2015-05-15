@@ -7,16 +7,10 @@
 </head>
 <body>
   <script>
-var values = [];
-var keys = [];
+
 var r = Raphael(100, 50, 1300, 600);
-
-each(hist, function(val, key){
-  values.push(val);
-  keys.push(key);
-});
-
 r.barchart(100, 100, 620, 260, [values], {}).label([keys], true);
+
   </script>
 </body>
 </html>
