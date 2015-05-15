@@ -1,6 +1,6 @@
 #Simple histogram
 
-I learned recently that histograms can be used to store and evaluate information.
+I learned recently that histograms can be used to store and evaluate information
 to solve algorithms. This small project uses the Raphael (vector graphics library)
 and the gRaphael (charting library) to draw a histogram of character counts based
 on user input via web page prompt.
@@ -10,7 +10,7 @@ appears in higher frequency than any other character.
 
 ###Instructions
 
-Visit https://github.rodocite.io/simple-histogram to test the application.
+Visit https://rodocite.github.io/simple-histogram to test the application.
 
 ####Issues
 
